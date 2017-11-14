@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="subject_array">
+        <item>Mobile Application Development</item>
+        <item>Mobile communication</item>
+        <item>Department Elective</item>
+        <item>Institution Elective</item>
+        <item>Indian Cyber Law</item>
+    </string-array>
+
+    <string-array name="teacher_array">
+        <item>SSV</item>
+        <item>HM</item>
+        <item>RK</item>
+        <item>VSR</item>
+        <item>PS</item>
+    </string-array>
+</resources>
